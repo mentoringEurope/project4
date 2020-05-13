@@ -18,6 +18,19 @@ public class sortHashSet {
 
      */
 
+    /*
+        Verilen  allNumbers Integer Hashset
+
+         allNumbers hashset'i sort et
+
+        Sonucu ArrayList olarak değiştir
+
+        Return  ArrayList
+
+        NOT : SORUYU ÇÖZERKEN COLLECTİON CLASS KULLANMA , FOR LOOP VEYA FARKLI SET TYPES KULLANIN
+
+
+     */
     public ArrayList<Integer> sort(HashSet<Integer> allNumbers){
 
         ArrayList<Integer> result  = new ArrayList<>();

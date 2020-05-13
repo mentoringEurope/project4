@@ -20,6 +20,26 @@ public class DigitPowers {
 
        */
 
+
+    /*
+
+
+         Verilen methodun ismi power4
+         Parametresi int
+         Return tipi de int dir
+
+
+         Girilen int parametresinin rakamlarının ayrı ayrı
+         4.kuvvetini alıp toplayın
+
+         Örnek: parameter int is 1234
+
+         1⁴ + 2⁴ + 3⁴ + 4⁴ = 1 + 16 + 81 + 256
+
+         result  354 olmalı
+
+      */
+
         public int power4(int num){
 
          return 0;

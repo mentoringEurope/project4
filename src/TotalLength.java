@@ -18,6 +18,24 @@ public class TotalLength {
 
      */
 
+
+    /*
+
+       Parametre  Set String
+
+       Set içindeki  her bir Stringin toplam uzunluğunu al
+
+       return total
+
+       Örnek:
+
+       Set String "repl" "is" "homework"
+
+       result  14 olmalı
+
+       NOT : EĞER SONUÇ 0'A EŞİT OLURSA -1 İLE DEĞİŞTİR
+
+     */
     public int getTotalLength(HashSet<String> mySet){
 
 

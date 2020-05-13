@@ -19,6 +19,26 @@ public class LetterCount {
 
      */
 
+
+    /*
+
+            Verilen bir String
+            String'den her bir char alın, her bir char'ın sayısını döndür
+
+            Örnek:
+
+            String = aabbbcccc
+
+            return     a , 2     olmalı
+                       b , 3
+                       c , 4
+
+            Not: Stringde herhangi bir char olabilir.
+
+     */
+
+
+
     public LinkedHashMap<Character, Integer> charCount(String myStr){
 
         LinkedHashMap<Character, Integer> result = new LinkedHashMap<>();
